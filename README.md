@@ -1,40 +1,32 @@
-<h1 align="center">👋 Hi, I'm Athul K Dinu</h1>
+# 👋 Hi, I'm Athul K Dinu
 
-<p align="center">
-🎓 B.Tech CSE (2021–2025) &nbsp;|&nbsp; 💻 Frontend Developer <br>
-📍 Kottayam, Kerala, India
-</p>
-
----
-
-## 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks:** React.js, Tailwind CSS, Bootstrap
-- **Backend & Data:** REST APIs, Python, MySQL
-- **Tools:** Git & GitHub
+💻 Frontend Developer | React • JavaScript  
+🎓 B.Tech CSE (2021–2025)  
+📍 Kottayam, Kerala, India  
 
 ---
 
-## 🚀 Projects
-- **Travel Trip Tracker**  
-  React.js • Tailwind CSS  
-
-- **College Enquiry Chatbot**  
-  JavaScript • HTML • CSS  
-
-- **Smart Health App**  
-  React.js • REST APIs  
+## 💫 About Me
+🌱 Learning React & modern frontend development  
+💬 Ask me about HTML, CSS, JavaScript, React  
+⚡ I enjoy building clean and responsive UIs  
 
 ---
 
-## 💼 Experience
-**Frontend Development Intern — Luminar TechnoLab**  
-- Developed responsive UI components using React  
-- Integrated REST APIs and followed Git-based workflows  
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📫 Contact
-- 📧 **Email:** athulkdinu@gmail.com  
-- 🔗 **LinkedIn:** [athul-k-dinu](https://www.linkedin.com/in/athul-k-dinu/)  
-- 💻 **GitHub:** [athulkdinu](https://github.com/athulkdinu)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=athulkdinu&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=athulkdinu&layout=compact&theme=dark)
+
+---
+
+📫 **Email:** athulkdinu@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/athul-k-dinu/
