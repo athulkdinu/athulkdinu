@@ -4,52 +4,61 @@
   />
 </p>
 
-# 👋 Hi, I'm Athul K Dinu
+<h1 align="center">Hi 👋, I'm Athul K Dinu</h1>
 
-💻 **Frontend Developer** | React • JavaScript  
-🎓 **B.Tech Computer Science & Engineering (2021–2025)**  
-📍 **Kottayam, Kerala, India**
+<p align="center">
+  <b>Frontend Developer</b> · React · JavaScript <br/>
+  🎓 B.Tech Computer Science & Engineering (2021–2025) <br/>
+  📍 Kottayam, Kerala, India
+</p>
+
+<p align="center">
+  📄 <a href="https://drive.google.com/file/d/1YpVkh2KSafQkKCvxxPhzReP8kvp9vOir/view?usp=drive_link" target="_blank"><b>Download Resume</b></a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web interfaces.
+I am a passionate **Frontend Developer** who enjoys building clean, responsive, and user-friendly web interfaces.
 
-- 🌱 Learning **React, Tailwind CSS & modern frontend practices**
-- 🧠 Strong foundation in **HTML, CSS, JavaScript**
+- 🌱 Currently learning **React, Tailwind CSS, and modern frontend practices**
+- 🧠 Strong foundation in **HTML, CSS, and JavaScript**
 - 🎯 Actively seeking **Frontend / Web Developer fresher roles**
 - 🤝 Open to internships, collaborations, and learning opportunities
 
 ---
 
-## 🛠️ Skills
-**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap  
-**Tools:** Git · GitHub · VS Code · Figma (basic UI understanding)
+## 🛠️ Skills & Tools
+**Frontend Development**  
+HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap  
+
+**Tools & Platforms**  
+Git · GitHub · VS Code · Figma (basic UI understanding)
 
 ---
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-
-
 ## 🚀 Projects
 ### 🏥 Smart Hospital Management System
-- Role-based dashboards for **Admin, Doctor, Patient**
+- Role-based dashboards for **Admin, Doctor, and Patient**
 - Appointment booking and management
-- Focused on frontend usability  
+- Focus on clean UI and usability  
 - **Tech:** React · JavaScript · Bootstrap · REST APIs
 
 ### 🎓 Smart Campus / Learning Platform
-- Notes, recorded classes, and basic analytics
-- Designed for better student experience  
+- Platform for notes, recorded classes, and basic analytics
+- Designed to improve student learning experience  
 - **Tech:** React · Tailwind CSS
 
 👉 *More projects available in my repositories*
@@ -57,14 +66,16 @@ I am a passionate **Frontend Developer** focused on building clean, responsive, 
 ---
 
 ## 🎯 Career Goal
-To grow as a **professional frontend developer**, work on real-world products, and continuously improve UI, performance, and code quality.
+To grow as a **professional frontend developer**, contribute to real-world applications, and continuously improve UI quality, performance, and code standards.
 
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** athulkdinu@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/athul-k-dinu](https://www.linkedin.com/in/athul-k-dinu)
+📧 **Email:** athulkdinu@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/athul-k-dinu](https://www.linkedin.com/in/athul-k-dinu)
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+<p align="center">
+  ⭐ Thank you for visiting my profile — feel free to explore my repositories and connect!
+</p>
