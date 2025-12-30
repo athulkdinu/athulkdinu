@@ -4,7 +4,6 @@
   />
 </p>
 
-<h2 align="center">Frontend Developer | React • JavaScript</h2>
 
 <p align="center">
   🎓 B.Tech CSE (2021–2025) · 📍 Kottayam, Kerala <br/>
