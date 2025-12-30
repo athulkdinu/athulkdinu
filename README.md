@@ -24,8 +24,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulkdinu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulkdinu&layout=compact&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athulkdinu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkdinu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
 ---
 
