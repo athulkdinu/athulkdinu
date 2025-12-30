@@ -32,8 +32,18 @@ Passionate **Frontend Developer** focused on building clean, responsive, and use
 ---
 
 ## 📊 GitHub Stats
-![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulkdinu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulkdinu&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api.svg?username=athulkdinu&show_icons=true&theme=tokyonight" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=athulkdinu&layout=compact&theme=tokyonight" 
+    height="170"
+  />
+</p>
+
 
 ---
 
