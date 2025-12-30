@@ -1,23 +1,30 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Athul%20K%20Dinu&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&descAlignY=65"
+  />
+</p>
+
 # 👋 Hi, I'm Athul K Dinu
 
 💻 **Frontend Developer** | React • JavaScript  
-🎓 **B.Tech CSE (2021–2025)** · 📍 **Kottayam, Kerala, India**
+🎓 **B.Tech Computer Science & Engineering (2021–2025)**  
+📍 **Kottayam, Kerala, India**
 
 ---
 
 ## 👨‍💻 About Me
-Passionate **Frontend Developer** focused on building clean, responsive, and user-friendly interfaces.
+I am a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web interfaces.
 
-- 🌱 Learning **React, Tailwind CSS, modern frontend practices**
+- 🌱 Learning **React, Tailwind CSS & modern frontend practices**
 - 🧠 Strong foundation in **HTML, CSS, JavaScript**
-- 🎯 Seeking **Frontend / Web Developer fresher roles**
-- 🤝 Open to internships & collaborations
+- 🎯 Actively seeking **Frontend / Web Developer fresher roles**
+- 🤝 Open to internships, collaborations, and learning opportunities
 
 ---
 
 ## 🛠️ Skills
-**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind · Bootstrap  
-**Tools:** Git · GitHub · VS Code · Figma (basic)
+**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap  
+**Tools:** Git · GitHub · VS Code · Figma (basic UI understanding)
 
 ---
 
@@ -32,43 +39,44 @@ Passionate **Frontend Developer** focused on building clean, responsive, and use
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api.svg?username=athulkdinu&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api.svg?username=athulkdinu&show_icons=true&theme=tokyonight"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=athulkdinu&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=athulkdinu&layout=compact&theme=tokyonight"
     height="170"
   />
 </p>
 
-
 ---
 
 ## 🚀 Projects
-**🏥 Smart Hospital Management System**  
-Role-based dashboards, appointment booking  
-*React · JavaScript · Bootstrap · REST APIs*
+### 🏥 Smart Hospital Management System
+- Role-based dashboards for **Admin, Doctor, Patient**
+- Appointment booking and management
+- Focused on frontend usability  
+- **Tech:** React · JavaScript · Bootstrap · REST APIs
 
-**🎓 Smart Campus / Learning Platform**  
-Notes, recorded classes, analytics  
-*React · Tailwind CSS*
+### 🎓 Smart Campus / Learning Platform
+- Notes, recorded classes, and basic analytics
+- Designed for better student experience  
+- **Tech:** React · Tailwind CSS
 
-👉 More projects in repositories
+👉 *More projects available in my repositories*
 
 ---
 
 ## 🎯 Career Goal
-Grow as a **professional frontend developer**, contribute to real-world products, and continuously improve UI & performance.
+To grow as a **professional frontend developer**, work on real-world products, and continuously improve UI, performance, and code quality.
 
 ---
 
-## 📫 Contact
-📧 **athulkdinu@gmail.com**  
-🔗 **linkedin.com/in/athul-k-dinu**
+## 📫 Contact Me
+- 📧 **Email:** athulkdinu@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/athul-k-dinu](https://www.linkedin.com/in/athul-k-dinu)
 
 ---
 
-⭐ *Thanks for visiting — feel free to explore my work and connect!*
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
