@@ -41,14 +41,15 @@ I am a passionate **Frontend Developer** focused on building clean, responsive, 
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api.svg?username=athulkdinu&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=athulkdinu&show_icons=true&theme=tokyonight"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=athulkdinu&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=athulkdinu&layout=compact&theme=tokyonight"
     height="170"
   />
 </p>
+
 
 ---
 
