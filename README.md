@@ -1,40 +1,27 @@
 # 👋 Hi, I'm Athul K Dinu
 
 💻 **Frontend Developer** | React • JavaScript  
-🎓 **B.Tech Computer Science & Engineering (2021–2025)**  
-📍 **Kottayam, Kerala, India**
+🎓 **B.Tech CSE (2021–2025)** · 📍 **Kottayam, Kerala, India**
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web interfaces.  
-Currently strengthening my skills in **React and modern frontend technologies**, with a strong interest in UI/UX and real-world web applications.
+Passionate **Frontend Developer** focused on building clean, responsive, and user-friendly interfaces.
 
-- 🌱 Learning **React, Tailwind CSS, and modern frontend practices**
+- 🌱 Learning **React, Tailwind CSS, modern frontend practices**
 - 🧠 Strong foundation in **HTML, CSS, JavaScript**
-- 🎯 Actively seeking **Frontend / Web Developer fresher roles**
-- 🤝 Open to internships, collaborations, and learning opportunities
+- 🎯 Seeking **Frontend / Web Developer fresher roles**
+- 🤝 Open to internships & collaborations
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
-- Tailwind CSS  
-- Bootstrap  
-
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma (basic UI understanding)
+## 🛠️ Skills
+**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind · Bootstrap  
+**Tools:** Git · GitHub · VS Code · Figma (basic)
 
 ---
 
-## 💻 Tech Stack Badges
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,39 +31,34 @@ Currently strengthening my skills in **React and modern frontend technologies**,
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 ![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulkdinu&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulkdinu&layout=compact&theme=tokyonight)
 
 ---
 
-## 🚀 Projects (Highlights)
-### 🏥 Smart Hospital Management System
-- Role-based system for **Admin, Doctor, and Patient**
-- Appointment booking and dashboards
-- Frontend-focused implementation  
-- **Tech:** React, JavaScript, Bootstrap, REST APIs
+## 🚀 Projects
+**🏥 Smart Hospital Management System**  
+Role-based dashboards, appointment booking  
+*React · JavaScript · Bootstrap · REST APIs*
 
-### 🎓 Smart Campus / Learning Platform
-- Web platform for notes, recorded classes, and analytics
-- Focus on usability and performance
-- **Tech:** React, Tailwind CSS
+**🎓 Smart Campus / Learning Platform**  
+Notes, recorded classes, analytics  
+*React · Tailwind CSS*
 
-👉 *More projects available in my repositories*
+👉 More projects in repositories
 
 ---
 
-## 🎯 Career Goals
-- Grow as a **professional frontend developer**
-- Work on real-world products that impact users
-- Continuously improve UI, performance, and code quality
+## 🎯 Career Goal
+Grow as a **professional frontend developer**, contribute to real-world products, and continuously improve UI & performance.
 
 ---
 
-## 📫 Contact Me
-- 📧 **Email:** athulkdinu@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/athul-k-dinu](https://www.linkedin.com/in/athul-k-dinu/)
+## 📫 Contact
+📧 **athulkdinu@gmail.com**  
+🔗 **linkedin.com/in/athul-k-dinu**
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+⭐ *Thanks for visiting — feel free to explore my work and connect!*
