@@ -26,7 +26,7 @@ I am a passionate **Frontend Developer** who enjoys building clean, responsive, 
 - 🎯 Actively seeking **Frontend / Web Developer fresher roles**
 - 🤝 Open to internships, collaborations, and learning opportunities
 
-----
+---
 
 ## 🛠️ Skills & Tools
 **Frontend Development**  
