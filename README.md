@@ -16,7 +16,7 @@
   📄 <a href="https://drive.google.com/file/d/1YpVkh2KSafQkKCvxxPhzReP8kvp9vOir/view?usp=drive_link" target="_blank"><b>Download Resume</b></a>
 </p>
 
------
+----
 
 ## 👨‍💻 About Me
 I am a passionate **Frontend Developer** who enjoys building clean, responsive, and user-friendly web interfaces.
