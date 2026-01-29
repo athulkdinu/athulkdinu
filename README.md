@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📄 <a href="https://drive.google.com/file/d/1YpVkh2KSafQkKCvxxPhzReP8kvp9vOir/view?usp=drive_link" target="_blank"><b>Download Resume</b></a>
+  📄 <a href="https://drive.google.com/file/d/1i3pqsViiBHHSOCB68X9JlPepcrEe0vHY/view?usp=sharing" target="_blank"><b>Download Resume</b></a>
 </p>
 
 ----
